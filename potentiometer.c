@@ -1,9 +1,3 @@
-/*
- * potentiometer.c
- *
- * Created: 15-05-2019 12:05:12
- * Author : Teja
- */ 
 
 #include <avr/io.h>
 #define F_CPU 16000000
