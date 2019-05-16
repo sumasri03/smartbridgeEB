@@ -1,9 +1,4 @@
-/*
- * Stepper motor.c
- *
- * Created: 16-05-2019 15:29:28
- * Author : suma sri
- */ 
+
 
 #define F_CPU 16000000UL
 #include <avr/io.h>
