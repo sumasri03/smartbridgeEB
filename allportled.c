@@ -1,9 +1,4 @@
-/*
- * GccApplication1.c
- *
- * Created: 09-05-2019 14:16:09
- * Author : Teja
- */ 
+
 #ifndef F_CPU
 #define F_CPU 1600000UL
 #endif
