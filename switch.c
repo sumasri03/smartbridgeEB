@@ -2,7 +2,7 @@
  * GccApplication6.c
  *
  * Created: 10-05-2019 11:20:17
- * Author : Teja
+ * Author : suma
  */ 
 
 #ifndef F_CPU
