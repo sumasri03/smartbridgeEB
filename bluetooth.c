@@ -1,9 +1,4 @@
-/*
- * bluetooth.c
- *
- * Created: 16-05-2019 11:22:25
- * Author : Teja
- */ 
+
 #ifndef F_CPU
 #define F_CPU 16000000UL
 #endif
